@@ -1,3 +1,4 @@
 1. Eat
 2. Sleep
 3. Wakeup
+4. Run
